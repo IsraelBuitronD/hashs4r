@@ -1,0 +1,37 @@
+Description
+===========
+
+Hashs4r is an implementation for some hash function algorithms in
+Ruby.
+
+Get the project
+===============
+
+Hashs4r is mounted into a Git repository, you can get a clone with
+this url:
+
+     	git://github.com/neoriddle/hashs4r.git
+
+ToDo List and Pendings
+======================
+
+Here is a list of pending features and some detected-reported errors.
+
+- Check and correct whirlpool output, computacion hash value is
+  correct but hexadecimal display omits a zero digit like a prefix of
+  '0[0-9A-Fa-f]' numbers.
+- Check and correct md5 hash value computation.
+
+
+If you detect some error or have SUGGESTIONS or COMMENTS, please BE
+FREE TO CONTACT ME to notify me or if you was to make contributions
+too.
+
+Contact Info
+============
+
+Name	Israel Buitron
+Email	israel.buitron@gmail.com
+	ibuitron@computacion.cs.cinvestav.mx
+Webpage	http://github.com/neoriddle/hashs4r
+	http://computacion.cs.cinvestav.mx/~ibuitron
